@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+#labelcount {
+  display: block;
+  text-align: center;
+  font-size: 20rem;
+  font-family: helvetica;
+}
+#btncontainer{
+  text-align: center;
+}
+.btn{
+  padding: 15px 20px;
+  font-size: 1.5em;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  background-color: #000;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  cursor: pointer;
+}
+
+.btn:hover{
+  background-color: white;
+  color: black;
+}
+.container{
+  display: inline-block;
+  border: 1px solid black;
+  padding: 20px;
+}
+.container-wrapper{
+  text-align: center;
+}
