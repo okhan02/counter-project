@@ -34,6 +34,7 @@ This is a simple counter project built using **HTML**, **CSS**, and **JavaScript
 ## How to Run Locally
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/okhan02/counter-project.git
    ```
